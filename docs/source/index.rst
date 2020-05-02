@@ -18,7 +18,6 @@ La documentation officielle de FriendlyBot
 
 | Bienvenue sur la documentation officielle de FriendlyBot.
 | Tu trouveras ici toutes les informations nécessaires à l'utilisation de FriendlyBot.
-| *( aka FB )*
 | Mais également sur `le Discord`_ ! 😎
 | ( Pense à le partager à tes potes pour agrandir la famille de FriendlyBot )
 
@@ -47,6 +46,10 @@ Les membres premium
 * Kritune, le dév' de plugins du „ TURFU “.
 * Théo, le gentleman de la sécurité des lignes de codes de FriendlyBot.
 
+###################
+Foire aux questions
+###################
+
 **Foire aux questions (FAQ)**
 ================================
 
@@ -69,6 +72,10 @@ Les membres premium
       * Chercher le dossier „ FriendlyBot “ et supprimer le.
    * Supprimer le dossier „ plugins “ situe à côté de l'éxécutable.
 
+############
+Installation
+############
+
 ****************
 **Installation**
 ****************
@@ -90,6 +97,10 @@ Les membres premium
    ▶️ : Veuillez à choisir la version correspondant à votre système d'exploitation, Windows, Linux ou OSX.*
 
 .. _dotnet.microsoft.com: https://dotnet.microsoft.com/download
+
+##############
+FriendlySuite
+##############
 
 *****************
 **FriendlySuite**
